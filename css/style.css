@@ -50,7 +50,10 @@ button {
   cursor: pointer;
   font-size: 16px;
 }
-
+.gambar {
+  max-width: 400px;
+  width: 100%;
+}
 button:hover {
   background-color: #2980b9;
 }
